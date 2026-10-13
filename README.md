@@ -8,15 +8,16 @@ My background also includes **C/C++, Java, Python, data structures & algorithms,
 
 ## 🔧 Current Focus
 
-- 🔭 **Free-Space Optical Communication:** [Optical Communication Link](https://github.com/hossaamwer/free-space-optical-communication) — laser-based digital communication using OOK, embedded timing, photodetection, and message reconstruction.
-- ⚙️ **Embedded Systems:** working with microcontrollers including STM32, Arduino, and ESP32, with a focus on low-level interfaces, timing, and hardware/software integration.
-- 💡 **Electronics & Photonics:** developing my knowledge in semiconductors, optics, communication engineering, and practical optical systems.
+- 🔭 **Optical Systems:** building projects in free-space optical communication and non-contact optical sensing.
+- ⚙️ **Embedded Systems:** working with STM32, Arduino, and ESP32, with a focus on timing, interfaces, and hardware/software integration.
+- 💡 **Electronics & Photonics:** developing my knowledge in semiconductors, optics, communication engineering, and practical photonic systems.
 - 📚 **Core Computer Science:** strong foundation in C++, Java, object-oriented programming, data structures, algorithms, and Python.
 
 ## 🧩 Selected Projects
 
-- **[Free-Space Optical Communication Link](https://github.com/hossaamwer/free-space-optical-communication)** — embedded optical data link using a laser transmitter, optical receiver, Timer1-based bit timing, and OLED output.
-- **Java Game Project** — team-built game developed in Java, applying object-oriented programming and software design in a complete interactive application.
+- **[Free-Space Optical Communication Link](https://github.com/hossaamwer/free-space-optical-communication)** — laser-based digital data transmission using OOK, embedded timing, photodetection, and message reconstruction.
+- **[Optical Vibration Sensing](https://github.com/hossaamwer/optical-vibration-sensing)** — non-contact vibration sensing using reflected laser light, photodetection, and frequency-domain analysis.
+- **Clans of the Eclipse** — team-built Java/JavaFX strategy game with game logic, GUI, save/load, animations, and an **AI gameplay component**.
 - **[Air Canvas Pro](https://github.com/hossaamwer/gesture-controlled-whiteboard)** — real-time gesture-controlled digital workspace using computer vision and machine learning.
 - **[C++ Data Structures & Algorithms](https://github.com/hossaamwer/cpp-dsa-capstone)** — implementations and problem-solving from university coursework.
 
@@ -26,10 +27,10 @@ My background also includes **C/C++, Java, Python, data structures & algorithms,
 C · C++ · Embedded Systems · STM32 · Arduino · ESP32 · LTspice · Git
 
 **Photonics & Communications**  
-Optics · Optical Communication · OOK Modulation · Photodetection · Digital Communications
+Optics · Optical Communication · Optical Sensing · OOK Modulation · Photodetection · Digital Communications
 
 **Programming & Software**  
-Java · Python · Object-Oriented Programming · Data Structures & Algorithms · Flask · JavaScript
+Java · JavaFX · Python · Object-Oriented Programming · Data Structures & Algorithms · Flask · JavaScript
 
 **AI & Computer Vision**  
 PyTorch · OpenCV · MediaPipe · NumPy · Pandas · Matplotlib
