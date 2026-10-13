@@ -13,7 +13,7 @@ My background also includes **C/C++, Java, Python, data structures & algorithms,
 - 💡 **Electronics & Photonics:** developing my knowledge in semiconductors, optics, communication engineering, and practical photonic systems.
 - 📚 **Core Computer Science:** strong foundation in C++, Java, object-oriented programming, data structures, algorithms, and Python.
 
-## 🧩 Selected Projects
+## 🧩 Projects
 
 - **[Free-Space Optical Communication Link](https://github.com/hossaamwer/free-space-optical-communication)** — laser-based digital data transmission using OOK, embedded timing, photodetection, and message reconstruction.
 - **[Optical Vibration Sensing](https://github.com/hossaamwer/optical-vibration-sensing)** — non-contact vibration sensing using reflected laser light, photodetection, and frequency-domain analysis.
