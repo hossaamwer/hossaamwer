@@ -1,36 +1,38 @@
-# Hi there, I'm Hossam 👋
+# Hi, I'm Hossam Ahmed 👋
 
-**2nd-Year Electrical Engineering Student in Berlin | AI & Computer Vision Developer**
+**3rd-Year Information Engineering Technology (IET) Student at GIU Berlin | Electronics • Embedded Systems • Photonics**
 
-I am a scholarship student passionate about bridging the gap between algorithmic research and real-time application design. I specialize in building complex, low-latency AI systems and analyzing data using Python, PyTorch, and WebSockets.
+I am a scholarship student in Berlin with a strong interest in **electronics, embedded systems, optical communications, and photonics**. I enjoy building practical systems that connect hardware, low-level programming, and communication concepts.
 
-### 🚀 What I'm Up To
-- 🔭 **Just shipped:** [Air Canvas Pro](https://github.com/hossaamwer/gesture-controlled-whiteboard) - A real-time, gesture-controlled digital workspace powered by custom 1D-CNNs and mathematical curve stabilization.
-- 📚 **Core CS:** [Data Structures & Algorithms](https://github.com/hossaamwer/cpp-dsa-capstone) - Comprehensive implementations and problem-solving from my university coursework.
-- 🌱 **Currently learning:** Advanced deployment architectures for machine learning models.
-- 📫 **Let's connect:** [Find me on LinkedIn](https://www.linkedin.com/in/hossam-ahmed-388499381/)
+My background also includes **C/C++, Python, data structures & algorithms, AI, and computer vision**, which I continue to use when they are useful for engineering projects.
 
----
+## 🔧 Current Focus
 
-### 🛠️ Tech Stack & Tools
+- 🔭 **Free-Space Optical Communication:** [Optical Communication Link](https://github.com/hossaamwer/free-space-optical-communication) — laser-based digital communication using OOK, embedded timing, photodetection, and message reconstruction.
+- ⚙️ **Embedded Systems:** working with microcontrollers including STM32, Arduino, and ESP32, with a focus on low-level interfaces, timing, and hardware/software integration.
+- 💡 **Electronics & Photonics:** developing my knowledge in semiconductors, optics, communication engineering, and practical optical systems.
+- 📚 **Core Computer Science:** strong foundation in C++, object-oriented programming, data structures, algorithms, and Python.
 
-**AI & Computer Vision:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white)
+## 🧩 Selected Projects
 
-**Data Science & Analysis:**
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+- **[Free-Space Optical Communication Link](https://github.com/hossaamwer/free-space-optical-communication)** — embedded optical data link using a laser transmitter, optical receiver, Timer1-based bit timing, and OLED output.
+- **[Air Canvas Pro](https://github.com/hossaamwer/gesture-controlled-whiteboard)** — real-time gesture-controlled digital workspace using computer vision and machine learning.
+- **[C++ Data Structures & Algorithms](https://github.com/hossaamwer/cpp-dsa-capstone)** — implementations and problem-solving from university coursework.
 
-**Web & Backend:**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 🛠️ Skills & Tools
 
-**Core CS & Hardware:**
-![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_&_Algorithms-4CAF50?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-FF6F00?style=for-the-badge)
+**Electronics & Embedded**  
+C · C++ · Embedded Systems · STM32 · Arduino · ESP32 · LTspice · Git
+
+**Photonics & Communications**  
+Optics · Optical Communication · OOK Modulation · Photodetection · Digital Communications
+
+**Programming & AI**  
+Python · PyTorch · OpenCV · MediaPipe · NumPy · Pandas · Matplotlib
+
+**Web & Software**  
+Flask · JavaScript · HTML5 Canvas
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/hossam-ahmed-388499381/)
